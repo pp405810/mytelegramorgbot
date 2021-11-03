@@ -1,7 +1,7 @@
 {
   "name": "MyTelegramOrgRoBot",
   "description": "get your APP ID and API HASH inside Telegram",
-  "logo": "https://telegra.ph/file/9e831d15da94deb56ef4c.jpg",
+  "logo": "https://telegra.ph/file/cd58298d181ff54c8b402.jpg",
   "keywords": [
     "telegram",
     "best",
@@ -9,9 +9,9 @@
     "scrapper",
     "3"
   ],
-  "repository": "https://github.com/MRK-YT/MT-MyTelegramOrg-Bot",
-  "success_url": "https://telegram.dog/mo_tech_yt/38",
-  "website": "https://github.com/MRK-YT/MT-MyTelegramOrg-Bot",
+  "repository": "https://github.com/pp405810/mytelegramorgbot",
+  "success_url": "https://github.com/pp405810/mytelegramorgbot",
+  "website": "https://github.com/pp405810/mytelegramorgbot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
